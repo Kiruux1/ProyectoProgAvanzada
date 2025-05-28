@@ -63,3 +63,5 @@ Para compilar el proyecto, navegue al directorio que contiene todos los archivos
 g++ -std=c++17 -o mi_pipeline pipeline.cpp Student.cpp EnvLoader.cpp SFTPClient.cpp DataTransformer.cpp AnalysisModule.cpp ConversionModule.cpp
 
 seguido de ./mi_pipeline
+
+Andres Rey, Andres Rojas y un vago hpta que no hizo nada.
