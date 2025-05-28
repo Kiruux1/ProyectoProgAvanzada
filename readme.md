@@ -1,5 +1,5 @@
 # Proyecto Pipeline ETL en C++: Procesamiento de Datos de Admisión
-
+Andres Fernando Rey Lopez, Andres Felipe Rojas , Andres Camilito Polo Martinez
 ## 1. Objetivo Principal
 
 Este proyecto implementa un pipeline de Extracción, Transformación y Carga (ETL) en C++. Su finalidad es procesar el archivo `Admission_Predict.csv`, realizar análisis estadísticos sobre los datos y generar archivos de salida en formato de texto y binario. Esta versión opera con el archivo CSV de forma local.
@@ -64,4 +64,6 @@ g++ -std=c++17 -o mi_pipeline pipeline.cpp Student.cpp EnvLoader.cpp SFTPClient.
 
 seguido de ./mi_pipeline
 
-Andres Rey, Andres Rojas y un vago hpta que no hizo nada.
+
+
+
